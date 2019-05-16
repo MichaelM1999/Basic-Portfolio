@@ -87,7 +87,7 @@
     line-height: 1.5;
     margin: 10px;
     position: relative;
-    top: -248px;
+    top: -286px;
 }
 #text3 {
     color: #777777;
@@ -95,7 +95,7 @@
     line-height: 1.5;
     margin: 10px;
     position: relative;
-    top: -233px;
+    top: -272px;
 }
 body {
     background-image: url("funky-lines.png");
@@ -142,7 +142,11 @@ body {
     top: 35px;
 }
 #submit {
+    width: 200px;
+    height: 58px;
     position: relative;
-    top: 55px;
-    LEFT: 36px;
+    top: 54px;
+    left: 12px;
+    color: white;
+    background-color: #4aaaa5
 }
