@@ -148,5 +148,7 @@ body {
     top: 54px;
     left: 12px;
     color: white;
-    background-color: #4aaaa5
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 25px;
 }
